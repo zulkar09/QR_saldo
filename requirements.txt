@@ -1,6 +1,5 @@
 streamlit
-st-files-connection
-gspread
+streamlit-gsheets
 pandas
 qrcode
 pillow
