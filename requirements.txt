@@ -1,0 +1,7 @@
+streamlit
+st-files-connection
+gspread
+pandas
+qrcode
+pillow
+pyzbar
